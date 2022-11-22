@@ -1,2 +1,2 @@
-"funcionalidade nova"
+"funcionalidade nova."
 
